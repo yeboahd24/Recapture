@@ -48,6 +48,3 @@ Once message appeared, add response token to request data alongsode with user de
 recapctha: <response_token>
 ```
 
-## More Details
-
-https://www.thepylot.dev/recaptcha-django-rest-framework/
